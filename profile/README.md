@@ -142,6 +142,6 @@ Pendiente: crear tickets con el formulario dinámico, asignarlos y cambiar su es
 
 - Yenderson Enrique Martinez Mendez
 - Marlon Quintero Rincon
-- Fabian Eduardo Rojas Pallarez
+- Fabian Eduardo Rojas Pallarez - 0192270
 - Danuil Alejandro Neira Navarro
 - Jordy Prada Yanes
