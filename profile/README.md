@@ -144,4 +144,4 @@ Pendiente: crear tickets con el formulario dinámico, asignarlos y cambiar su es
 - Marlon Quintero Rincon - 0192279
 - Fabian Eduardo Rojas Pallarez - 0192270
 - Danuil Alejandro Neira Navarro - 0192272
-- Jordy Prada Yanes
+- Jordy Prada Yanes - 0192099
