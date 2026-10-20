@@ -140,7 +140,7 @@ Pendiente: crear tickets con el formulario dinámico, asignarlos y cambiar su es
 
 ## Equipo
 
-- Yenderson Enrique Martinez Mendez
+- Yenderson Enrique Martinez Mendez - 0192260
 - Marlon Quintero Rincon - 0192279
 - Fabian Eduardo Rojas Pallarez - 0192270
 - Danuil Alejandro Neira Navarro
